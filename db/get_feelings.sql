@@ -1,0 +1,1 @@
+SELECT feeling from users;
